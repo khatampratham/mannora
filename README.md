@@ -1,5 +1,5 @@
 <h1>Welcome to Mannora</h1>
-Project info
+<h2></h2>Project info</h2>
 URL: https://mannora.vercel.app/
 
 How can I edit this code?
