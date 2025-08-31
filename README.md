@@ -2,7 +2,7 @@
 <h2>Project info</h2>
 URL: https://mannora.vercel.app/
 
-How can I edit this code?
+<h2>How can I edit this code?</h2>
 There are several ways of editing your application.
 
 Use your preferred IDE
