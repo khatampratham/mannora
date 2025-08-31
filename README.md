@@ -39,9 +39,10 @@ npm run dev
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 <h2>What technologies are used for this project?</h2>
 This project is built with:
-
+<pre>
 Vite
 TypeScript
 React
 shadcn-ui
 Tailwind CSS
+</pre>
